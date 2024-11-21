@@ -14,8 +14,6 @@ Are you ready to embark on a magical musical adventure? Let’s get started!
 
 **Sprunki Kiss Edition** allows players to engage with various characters in a light-hearted and romantic setting. The mod features unique animations and interactions that highlight the relationships between characters, making it an enjoyable experience for fans of romance-themed games.
 
-Sprunki Kiss Edition is designed for both casual players and those looking for a deeper musical experience, making it a versatile addition to the Incredibox universe.
-
 ## Key Features of Sprunki Kiss Edition
 
 - **Romantic Storyline**: The game includes a narrative that revolves around the romantic interactions between characters, enhancing emotional engagement.
@@ -38,4 +36,6 @@ Sprunki Kiss Edition is designed for both casual players and those looking for a
 
 ## Ready to Start Playing Sprunki Kiss Edition?
 
-Immerse yourself in the enchanting universe of Sprunki Kiss Edition, where creativity meets melody in a groundbreaking musical experience. Dive into its captivating features and discover a world of unique sounds, innovative tools, and limitless opportunities to express yourself through music. With Sprunki Kiss Edition, the possibilities are endless—craft mesmerizing rhythms, compose unforgettable tunes, and unleash your inner artist. Start your musical adventure today and turn your ideas into masterpieces!
+Sprunki Kiss Edition is designed for both casual players and those looking for a deeper musical experience, making it a versatile addition to the Incredibox universe.
+
+Explore the enchanting world of Sprunki Kiss Edition and embark on a musical adventure like no other! With its distinctive sounds and innovative features, Sprunki Kiss Edition offers endless possibilities for crafting extraordinary music. Start your journey today and create your own masterpieces!
