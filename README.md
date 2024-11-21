@@ -6,7 +6,7 @@ Sprunki Kiss Edition is a fan-made mod of the popular Incredibox game, focusing 
 
 Are you ready to embark on a magical musical adventure? Let’s get started!
 
-Play [Sprunki Kiss Edition](https://sprunkisinner.org/) Now
+[Sprunki Kiss Edition](https://sprunkisinner.org/)
 
 
 ## Overview of Sprunki Kiss Edition
