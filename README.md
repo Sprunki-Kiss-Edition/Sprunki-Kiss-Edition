@@ -1,4 +1,4 @@
-# Play Incredibox Sprunki Kiss Edition Game Online
+# Sprunki Kiss Edition - Play Incredibox Sprunki Game Online
 
 Sprunki Kiss Edition is a fan-made mod of the popular Incredibox game, focusing on romantic interactions and character dynamics. This edition enhances the original gameplay by introducing a storyline centered around love and affection among its characters.
 
