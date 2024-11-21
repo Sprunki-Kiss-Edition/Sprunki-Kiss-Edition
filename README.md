@@ -6,13 +6,14 @@ Sprunki Kiss Edition is a fan-made mod of the popular Incredibox game, focusing 
 
 Are you ready to embark on a magical musical adventure? Let’s get started!
 
-- Play [Sprunki Kiss Edition](https://sprunkisinner.org/) on Sprunki Sinner
+Play [Sprunki Kiss Edition](https://sprunkisinner.org/) Now
 
-[![Sprunki Sinner Edition](https://sprunkisinner.org/_nuxt/sprunki-sinner-edition.BFsKprZQ.png)](https://sprunki-retake.net/_nuxt/sprunki-retake.DCj9Xdqs.png)
 
 ## Overview of Sprunki Kiss Edition
 
 **Sprunki Kiss Edition** allows players to engage with various characters in a light-hearted and romantic setting. The mod features unique animations and interactions that highlight the relationships between characters, making it an enjoyable experience for fans of romance-themed games.
+
+[![Sprunki Sinner Edition](https://sprunkisinner.org/_nuxt/sprunki-sinner-edition.BFsKprZQ.png)](https://sprunki-retake.net/_nuxt/sprunki-retake.DCj9Xdqs.png)
 
 ## Key Features of Sprunki Kiss Edition
 
